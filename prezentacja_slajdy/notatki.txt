@@ -1,0 +1,16 @@
+ 
+
+Ogolnie ze przedstawiam ze moim projektem jest symulacja wzrostu roslin 
+
+ 
+
+Głównym celem programu jest symulacja wzrostu roślin przy użyciu L-systemów (systemów Lindenmayera). L-systemy to zestawy reguł ktore sluza do produkcji tworzenia graficznych tworów o fraktalnej budowie.  Symulacje przeprowadzone w programie wraz z ich graficznymi reprezentacjami tworzą dobry obraz tego, jak poglądowo mogą wyglądać rośliny ze względu na zmiany różnych czynników otoczenia bądź ich własnych parametrów. 
+
+To co mozemy sie dowiedziec miedzy innymi bo moga tez byc rozne kombinacje np slonce rozny kat generowania 
+
+ 
+
+11. Jak wyglada program - Program jest bardzo intuicyjny, umożliwia zmianę konfiguracji za pomocą zewnętrznego pliku, a także z poziomu menu oraz wyświetla wyniki w terminalu i zapisuje je w plikach tekstowych i graficznych na życzenie użytkownika. 
+
+12. To co mozna zmieniac w pliku config po kolei oraz ze  
+Reguły użyte w moim programie wzorowane są na gotowych algorytmach powstawania roślin, ktore zostały odrobine zmodyfikowane (wiecej przy opisie pliku config). 

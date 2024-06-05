@@ -1,0 +1,10 @@
+ruleX=F-[[X]+X]+F[+FX]-X
+ruleF=F[+F][-F[-F]F]F[+F][-F]
+start=X
+iterations=5
+angle(deg)=21.5
+random_generate(y/n)=y
+sunlight_direction(l/r/c)=c
+other_plants(y/n)=n
+color(red/green/blue/black)=green
+step=25
